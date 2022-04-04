@@ -43,8 +43,10 @@
 
 - :paperclip: [My Resume/CV](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/blob/main/COMPUTING_IN_PRACTICE(CN5104)/Resume-Michail-Markou.pdf)
 - :email: michailmarkou1995@outlook.com.gr
-
-### Also in other media known as, michailmarkou1995 | NitrousUp | marcus jotun | MichailKalinx
+- 
+---
+### Also in other media known as, michailmarkou1995 | NitrousUp | marcus jotun | MichailKalinx | michaelmarkouDevOps
+---
 
 ### Languages and Tools:
 
@@ -74,8 +76,6 @@
 <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-
----
 
 <br />
 <br />
