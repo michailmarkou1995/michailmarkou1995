@@ -80,6 +80,15 @@
 <br />
 
 ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/NitrousUp)
+
+---
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michailmarkou1995)
