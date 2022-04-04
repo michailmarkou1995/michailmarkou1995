@@ -84,16 +84,21 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[Google Play Store] RobotMaze in Java for Android Showcase #FullHD](https://www.youtube.com/watch?v=rJk9nBIwMec)
-- [[Google Play Store] RobotMaze in Java for Android Showcase](https://www.youtube.com/watch?v=CKUm5joK6PM)
-- [Unreal Engine VoIP Voice Chat System for Multiplayer #3 Blueprints: How it works?](https://www.youtube.com/watch?v=FvyhLrOVsgU)
-- [Unreal Engine VoIP Voice Chat System for Multiplayer #2 Technical Explanation Overview](https://www.youtube.com/watch?v=EWK5TxIxNug)
-- [[Marketplace Asset] Unreal Engine VoIP Voice Chat System for Multiplayer Blueprint #1 Showcase](https://www.youtube.com/watch?v=2QcsIlXXc1M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/NitrousUp)
 
 ---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.artstation.com/michailmarkou1995/blog)
+
+---
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michailmarkou1995)
