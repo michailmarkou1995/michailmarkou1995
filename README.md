@@ -43,7 +43,7 @@
 
 - :paperclip: [My Resume/CV](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/blob/main/COMPUTING_IN_PRACTICE(CN5104)/Resume-Michail-Markou.pdf)
 - :email: michailmarkou1995@outlook.com.gr
-- 
+
 ---
 ### Also in other media known as, michailmarkou1995 | NitrousUp | marcus jotun | MichailKalinx | michaelmarkouDevOps
 ---
@@ -137,6 +137,8 @@
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=michailmarkou1995)
+
+### Badges
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michailmarkou1995" alt="michailmarkou1995" /></a> </p>
 <details>
