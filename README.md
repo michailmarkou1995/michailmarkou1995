@@ -51,7 +51,7 @@
 ### Languages and Tools:
 
 <p align="left"> <a href="#" target="_blank" rel="noreferrer">
-<img alt="Jira" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" /> </a>
+<img alt="Jira" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" unselectable="on"/> </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img alt="Git" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer">
