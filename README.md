@@ -50,7 +50,7 @@
 
 ### Languages and Tools:
 
-<p align="left"> <a href="#" style="text-decoration:none;">
+<p align="left" style="text-decoration:none;"> <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Jira" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Git" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
