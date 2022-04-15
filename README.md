@@ -60,6 +60,8 @@
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Unreal Engine" width="32" height="32" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
+<img alt="Unity" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" /> </a>
+<a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Photoshop" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Illustrator" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" /> </a>
