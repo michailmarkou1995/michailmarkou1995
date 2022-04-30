@@ -148,9 +148,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/pull/2) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-2. 💪 Opened PR [#2](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/pull/2) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-3. ❗️ Opened issue [#1](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/1) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+1. ❗️ Opened issue [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+2. ❗️ Opened issue [#3](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/3) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+3. 🎉 Merged PR [#2](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/pull/2) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
 <!--END_SECTION:activity-->
 
 </details>
