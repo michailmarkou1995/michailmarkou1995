@@ -148,9 +148,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-2. ❗️ Closed issue [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-3. ❗️ Opened issue [#5](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/5) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+1. ❗️ Opened issue [#6](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/6) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+2. 🗣 Commented on [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+3. ❗️ Closed issue [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
 <!--END_SECTION:activity-->
 
 </details>
