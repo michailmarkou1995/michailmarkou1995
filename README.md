@@ -148,9 +148,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/XRBootcamp/UnityVsUnreal/pull/1) in [XRBootcamp/UnityVsUnreal](https://github.com/XRBootcamp/UnityVsUnreal)
-2. ❗️ Opened issue [#6](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/6) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-3. 🗣 Commented on [#4](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/4) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+1. 🎉 Merged PR [#15](https://github.com/michailmarkou1995/Test-for-teams/pull/15) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
+2. 🎉 Merged PR [#14](https://github.com/michailmarkou1995/Test-for-teams/pull/14) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
+3. 🎉 Merged PR [#12](https://github.com/michailmarkou1995/Test-for-teams/pull/12) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
 <!--END_SECTION:activity-->
 
 </details>
