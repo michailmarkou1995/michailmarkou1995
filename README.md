@@ -148,9 +148,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/michailmarkou1995/Test-for-teams/pull/42) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
-2. ❌ Closed PR [#39](https://github.com/michailmarkou1995/Test-for-teams/pull/39) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
-3. ❌ Closed PR [#38](https://github.com/michailmarkou1995/Test-for-teams/pull/38) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
+1. ❌ Closed PR [#43](https://github.com/michailmarkou1995/Test-for-teams/pull/43) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
+2. ❌ Closed PR [#40](https://github.com/michailmarkou1995/Test-for-teams/pull/40) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
+3. ❌ Closed PR [#17](https://github.com/maroulikoKmagkas/Test-for-teams/pull/17) in [maroulikoKmagkas/Test-for-teams](https://github.com/maroulikoKmagkas/Test-for-teams)
 <!--END_SECTION:activity-->
 
 </details>
