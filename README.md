@@ -148,9 +148,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/michailmarkou1995/Test-for-teams/pull/43) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
-2. ❌ Closed PR [#40](https://github.com/michailmarkou1995/Test-for-teams/pull/40) in [michailmarkou1995/Test-for-teams](https://github.com/michailmarkou1995/Test-for-teams)
-3. ❌ Closed PR [#17](https://github.com/maroulikoKmagkas/Test-for-teams/pull/17) in [maroulikoKmagkas/Test-for-teams](https://github.com/maroulikoKmagkas/Test-for-teams)
+1. ❗️ Opened issue [#4](https://github.com/michailmarkou1995/unitytest/issues/4) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+2. 🗣 Commented on [#3](https://github.com/michailmarkou1995/unitytest/issues/3) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+3. ❗️ Closed issue [#2](https://github.com/michailmarkou1995/unitytest/issues/2) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
 <!--END_SECTION:activity-->
 
 </details>
