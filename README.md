@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/website?color=00acee&label=dev.epicgames.com&logo=Epic%20Games&style=for-the-badge&up_message=Portfolio&url=https%3A%2F%2Fdev.epicgames.com%2Fcommunity%2Fprofile%2F0X8d%2FMichailKalinx)](https://dev.epicgames.com/community/profile/0X8d/MichailKalinx)
 [![Discord](https://img.shields.io/discord/933796952016048178?color=2C2F33&label=Join%20Discord%20Server%20-%3E&logo=Discord&style=for-the-badge)](https://discord.com/invite/AYu6SVCj8g)
 
-## I'm Game Producer & Software Engineer | Network & Systems Admin | ArchViz - 2D/3D & SFX Artist ... and ... wait for it ...... Dogs owner!!
+## I'm a Game Producer & Software Engineer | Network & Systems Admin | ArchViz - 2D/3D & SFX Artist ... and ... wait for it ...... Dogs owner!!
 
 - ⚡ Former Internet Service Provider Network Engineer
 - 👯 Game Producer
