@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Michail Markou - aka [Michail Markou][youtube] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there 👋, I'm Michail Markou - aka [Michail Markou][youtube] <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16" height="16" alt="hi">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpBydElhnrBL7yUFnV6OuHQ?logo=YouTube&logoColor=%23e05d44&style=for-the-badge)][youtube]
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10394956?logo=Stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/10394956/michail-markou)
