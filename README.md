@@ -13,7 +13,7 @@
 ## I'm Software-Reverse Engineer | Unreal Engine, Game Developer, Level Designer & Multiplayer Expert - 3D Art & ArchViz | SFX | Producer ... and ... wait for it ...... Dogs owner!!
 
 - ⚡ Former Internet Service Provider Network Engineer
-- ⚡ Producer/Publisher
+- ⚡ Producer
 - ⚡ Digital Content Creator
 - ⚡ Unreal Engine Developer + Multiplayer Expert
 - 🌱 I’m currently learning everything 🤣
