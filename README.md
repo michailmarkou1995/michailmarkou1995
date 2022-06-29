@@ -13,18 +13,18 @@
 ## I'm Software-Reverse Engineer | Unreal Engine, Game Developer, Level Designer & Multiplayer Expert - 3D Art & ArchViz | SFX | Producer ... and ... wait for it ...... Dogs owner!!
 
 - ⚡ Former Internet Service Provider Network Engineer
-- ⚡ Producer
+- ⚡ Game Producer
 - ⚡ Digital Content Creator
-- ⚡ Unreal Engine Developer + Multiplayer Expert
+- ⚡ Unreal Engine/Unity Developer + Multiplayer Mechanics
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Learn more about web3, AR, VR, Metaverse, Production Releases
-- ⚡ Software/Reverse/Sound-Audio Engineering
+- ⚡ Software/Reverse Engineering
 - ⚡ Cloud Computing & Networking Security
 - ⚡ Business Analytics – Data Science
 - 👯 Collaboration & Problem-Solving
 - ⚡ Game Design and Development
 - ⚡ VR/AR
-- ⚡ 2D/3D/VFX Artist
+- ⚡ 2D/3D/VFX/SFX Artist
 - 🔭 Define, Analyze, Approve, Charter -> Create a Value!
 
 ### Connect with me:
