@@ -146,9 +146,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/michailmarkou1995/unitytest/issues/17) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
-2. 🗣 Commented on [#25](https://github.com/maroulikoKmagkas/Test-for-teams/issues/25) in [maroulikoKmagkas/Test-for-teams](https://github.com/maroulikoKmagkas/Test-for-teams)
-3. ❗️ Opened issue [#16](https://github.com/michailmarkou1995/unitytest/issues/16) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+1. ❗️ Closed issue [#17](https://github.com/michailmarkou1995/unitytest/issues/17) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+2. ❗️ Opened issue [#17](https://github.com/michailmarkou1995/unitytest/issues/17) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+3. 🗣 Commented on [#25](https://github.com/maroulikoKmagkas/Test-for-teams/issues/25) in [maroulikoKmagkas/Test-for-teams](https://github.com/maroulikoKmagkas/Test-for-teams)
 <!--END_SECTION:activity-->
 
 </details>
