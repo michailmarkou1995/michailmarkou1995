@@ -146,9 +146,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/michailmarkou1995/unitytest/issues/24) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
-2. ❗️ Opened issue [#24](https://github.com/michailmarkou1995/unitytest/issues/24) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
-3. ❗️ Closed issue [#19](https://github.com/michailmarkou1995/unitytest/issues/19) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+1. ❗️ Opened issue [#25](https://github.com/michailmarkou1995/unitytest/issues/25) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+2. ❗️ Closed issue [#24](https://github.com/michailmarkou1995/unitytest/issues/24) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+3. ❗️ Opened issue [#24](https://github.com/michailmarkou1995/unitytest/issues/24) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
 <!--END_SECTION:activity-->
 
 </details>
