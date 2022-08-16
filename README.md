@@ -146,9 +146,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/michailmarkou1995/2DPlatformer/issues/27) in [michailmarkou1995/2DPlatformer](https://github.com/michailmarkou1995/2DPlatformer)
-2. ❗️ Opened issue [#26](https://github.com/michailmarkou1995/unitytest/issues/26) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
-3. ❗️ Opened issue [#25](https://github.com/michailmarkou1995/unitytest/issues/25) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
+1. ❗️ Opened issue [#28](https://github.com/michailmarkou1995/SMB-2DPlatformer/issues/28) in [michailmarkou1995/SMB-2DPlatformer](https://github.com/michailmarkou1995/SMB-2DPlatformer)
+2. ❗️ Opened issue [#27](https://github.com/michailmarkou1995/2DPlatformer/issues/27) in [michailmarkou1995/2DPlatformer](https://github.com/michailmarkou1995/2DPlatformer)
+3. ❗️ Opened issue [#26](https://github.com/michailmarkou1995/unitytest/issues/26) in [michailmarkou1995/unitytest](https://github.com/michailmarkou1995/unitytest)
 <!--END_SECTION:activity-->
 
 </details>
