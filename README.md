@@ -146,9 +146,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/6) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
-2. ❗️ Closed issue [#25](https://github.com/michailmarkou1995/SMB-2DPlatformer/issues/25) in [michailmarkou1995/SMB-2DPlatformer](https://github.com/michailmarkou1995/SMB-2DPlatformer)
-3. 🗣 Commented on [#25](https://github.com/michailmarkou1995/SMB-2DPlatformer/issues/25) in [michailmarkou1995/SMB-2DPlatformer](https://github.com/michailmarkou1995/SMB-2DPlatformer)
+1. ❗️ Opened issue [#32](https://github.com/michailmarkou1995/SMB-2DPlatformer/issues/32) in [michailmarkou1995/SMB-2DPlatformer](https://github.com/michailmarkou1995/SMB-2DPlatformer)
+2. 🗣 Commented on [#6](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects/issues/6) in [michailmarkou1995/BSc-Computer-Science-Projects](https://github.com/michailmarkou1995/BSc-Computer-Science-Projects)
+3. ❗️ Closed issue [#25](https://github.com/michailmarkou1995/SMB-2DPlatformer/issues/25) in [michailmarkou1995/SMB-2DPlatformer](https://github.com/michailmarkou1995/SMB-2DPlatformer)
 <!--END_SECTION:activity-->
 
 </details>
