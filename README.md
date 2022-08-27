@@ -72,7 +72,7 @@
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="Blender" width="32" height="32" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> </a>
+<img alt="JetBrains IDE's" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img alt="HTML5" width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" /> </a>
 <a href="#" target="_blank" rel="noreferrer" style="text-decoration:none;">
