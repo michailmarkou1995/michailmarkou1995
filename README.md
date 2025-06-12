@@ -119,7 +119,7 @@
 - [Ηλιουπολίτικα 25-5-2024](https://www.youtube.com/watch?v=AfidjiffjoM)
 - [Πολιτιστική Εκδήλωση: Πήγασος 26/5/2024 15 Δημοτικό Ευόσμου](https://www.youtube.com/watch?v=n9KVkxn9Cqg)
 - [[Google Play] Augmented Reality &quot;AR Darts and Axes&quot;](https://www.youtube.com/watch?v=9ZwnFwaNJIQ)
-- [[Google Play] Augmented Reality &quot;AR Darts and Axes&quot;](https://www.youtube.com/watch?v=Ea_Lu4rpeCs)
+- [[Google Play] Augmented Reality &quot;AR Darts and Axes&quot;](https://www.youtube.com/shorts/Ea_Lu4rpeCs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/NitrousUp)
